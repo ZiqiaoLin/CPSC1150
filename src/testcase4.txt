@@ -1,0 +1,9 @@
+Public opinion is against the use of autonomous weapons capable of identifying and destroying targets without human input, according to a new survey by researchers at the University of British Columbia.
+
+More than eight out of every 10 individuals surveyed said such robots should not be used for aggression, and 67 per cent said they should be banned across the planet.
+
+More than a thousand people from 54 countries, including the United States, Canada, South Korea, Mexico and the U.K. answered the survey. It was conducted by the Open Roboethics initiative (ORi), a UBC-based group that studies issues concerning robotics and artificial intelligence.
+
+“It has been said that future wars will be fought with completely automated systems,” said AJung Moon, ORi spokesperson and a PhD candidate in mechanical engineering at UBC. “The survey results clearly show that more public discussion is necessary so that we can make intelligent decisions about robotic weapon technologies.”
+
+If pressed to make a choice, most people (71 per cent) said they would prefer that their country use remotely operated weapons—such as the military drones already being used by a few armies—instead of fully autonomous weapons. Many (56 per cent) would prefer that autonomous weapons never be developed or used at all.
